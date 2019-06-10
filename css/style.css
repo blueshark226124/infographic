@@ -2,7 +2,7 @@
     position: relative;
     margin-top: 75px;
 }
-.field-of-study-text {
+.study-text {
     display: none;
     left: 30px;
     position: absolute;
@@ -10,6 +10,7 @@
     width: 750px;
     /*text-align: center;*/
 }
+
 .text {
     width: 600px;
 }
